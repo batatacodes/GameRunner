@@ -30,9 +30,3 @@ Notas de implementação
 - Seções são objetos com material transparente que fazem fade-out.
 - Controles: setas/A/D para mover, ou toque (swipe) no mobile. Botões laterais também disponíveis.
 - Para performance, mantive baixa resolução de geometria e evitei sombras pesadas.
-
-Quer que eu:
-- Adicione efeitos sonoros (pular/colisão)?
-- Exporte um build pronto para deploy (eu posso gerar comandos de build e instruções de deploy)?
-- Crie o repositório GitHub e faça o push dos arquivos (diga o nome do repo)?
-```
